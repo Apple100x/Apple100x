@@ -20,7 +20,7 @@ ICOs. It adds new possibilities to the crypto world. Crowdfunding with IDOs can 
 
 <h1> Successful projects launch from IDOs </h1>
 
-1.Raven protocol IDO - This is a decentralized protocol of deep neural networks. It’s working on fast and cost-effective solutions to change AI and machine learning. The native raven token provides
+1.Apple100x protocol IDO - This is a decentralized protocol of deep neural networks. It’s working on fast and cost-effective solutions to change AI and machine learning. The native raven token provides
 awards to contributors by using the utility token. Same as Apple100x is coming to the concept of IDO. 
 2.Apple100x IDO - Apple100x is a decentralized crypto exchange built on Ethereum. This is another example of SushiSwap. It attempts to get the place of the most-popular Ethereum based decentralized exchanges. We will soon hold billions of crypto assets to the platform. 
 
